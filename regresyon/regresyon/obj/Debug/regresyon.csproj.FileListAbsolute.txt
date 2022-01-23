@@ -1,0 +1,44 @@
+C:\Users\ffurk\source\repos\regresyon\regresyon\bin\Debug\regresyon.exe.config
+C:\Users\ffurk\source\repos\regresyon\regresyon\bin\Debug\regresyon.exe
+C:\Users\ffurk\source\repos\regresyon\regresyon\bin\Debug\regresyon.pdb
+C:\Users\ffurk\source\repos\regresyon\regresyon\obj\Debug\regresyon.csproj.AssemblyReference.cache
+C:\Users\ffurk\source\repos\regresyon\regresyon\obj\Debug\regresyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ffurk\source\repos\regresyon\regresyon\obj\Debug\regresyon.Form1.resources
+C:\Users\ffurk\source\repos\regresyon\regresyon\obj\Debug\regresyon.Properties.Resources.resources
+C:\Users\ffurk\source\repos\regresyon\regresyon\obj\Debug\regresyon.csproj.GenerateResource.cache
+C:\Users\ffurk\source\repos\regresyon\regresyon\obj\Debug\regresyon.csproj.CoreCompileInputs.cache
+C:\Users\ffurk\source\repos\regresyon\regresyon\obj\Debug\regresyon.exe
+C:\Users\ffurk\source\repos\regresyon\regresyon\obj\Debug\regresyon.pdb
+C:\Users\ffurk\Desktop\regresyon\regresyon\obj\Debug\regresyon.csproj.AssemblyReference.cache
+C:\Users\ffurk\Desktop\regresyon\regresyon\obj\Debug\regresyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ffurk\Desktop\regresyon\regresyon\obj\Debug\regresyon.Form1.resources
+C:\Users\ffurk\Desktop\regresyon\regresyon\obj\Debug\regresyon.Properties.Resources.resources
+C:\Users\ffurk\Desktop\regresyon\regresyon\obj\Debug\regresyon.csproj.GenerateResource.cache
+C:\Users\ffurk\Desktop\regresyon\regresyon\obj\Debug\regresyon.csproj.CoreCompileInputs.cache
+C:\Users\ffurk\Desktop\regresyon\regresyon\obj\Debug\regresyon.exe
+C:\Users\ffurk\Desktop\regresyon\regresyon\obj\Debug\regresyon.pdb
+C:\Users\ffurk\Desktop\regresyon\regresyon\bin\Debug\regresyon.exe.config
+C:\Users\ffurk\Desktop\regresyon\regresyon\bin\Debug\regresyon.exe
+C:\Users\ffurk\Desktop\regresyon\regresyon\bin\Debug\regresyon.pdb
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\bin\Debug\regresyon.exe.config
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\bin\Debug\regresyon.exe
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\bin\Debug\regresyon.pdb
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\obj\Debug\regresyon.csproj.AssemblyReference.cache
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\obj\Debug\regresyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\obj\Debug\regresyon.Form1.resources
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\obj\Debug\regresyon.Properties.Resources.resources
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\obj\Debug\regresyon.csproj.GenerateResource.cache
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\obj\Debug\regresyon.csproj.CoreCompileInputs.cache
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\obj\Debug\regresyon.exe
+C:\Users\ffurk\OneDrive\Masaüstü\regresyon\regresyon\obj\Debug\regresyon.pdb
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\bin\Debug\regresyon.exe.config
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\bin\Debug\regresyon.exe
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\bin\Debug\regresyon.pdb
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\obj\Debug\regresyon.csproj.AssemblyReference.cache
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\obj\Debug\regresyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\obj\Debug\regresyon.Form1.resources
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\obj\Debug\regresyon.Properties.Resources.resources
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\obj\Debug\regresyon.csproj.GenerateResource.cache
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\obj\Debug\regresyon.csproj.CoreCompileInputs.cache
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\obj\Debug\regresyon.exe
+C:\Users\ffurk\OneDrive\Masaüstü\Kaynak Kodlar\regresyon\regresyon\obj\Debug\regresyon.pdb
